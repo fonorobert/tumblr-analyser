@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fonorobert/tumblr-analyser",
   "dependencies": {
+    "striptags": "^2.0.3",
     "tumblr.js": "0.0.5",
     "wordify": "0.0.1"
   }
